@@ -9,7 +9,7 @@ Uniwei
         :target: https://pypi.python.org/pypi/uniwei
 
 
-Open -source KKiseido Go Server (KGS) client in Python
+Open-source Kiseido Go Server (KGS) client in Python
 
 * Free software: 3-clause BSD license
 * Documentation: (COMING SOON!) `<https://saweiss.github.io/uniwei>`_.
